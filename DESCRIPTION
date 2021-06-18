@@ -1,0 +1,9 @@
+Package: yourpackage
+Title: My Super NBP 
+Version: 0.0.0.9000
+Authors@R: person('Piotr', 'Nowosielski', email = 'pio.nowosielski@gmail.com', role = c('cre', 'aut'))
+Description: A long description of this super package I'm working on.
+License: {{ License }}
+URL: http://this
+BugReports: http://that
+Encoding: UTF-8
